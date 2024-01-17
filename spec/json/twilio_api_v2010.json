@@ -35307,6 +35307,7 @@
       }
     },
     "/healthcheck": {
+      "description": "Healthcheck"
       "x-twilio": {
         "className": "health_check",
         "libraryVisibility": "private",
